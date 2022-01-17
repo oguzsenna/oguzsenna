@@ -3,8 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzsenna&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzsenna&layout=compact&theme=chartreuse-dark)](https://github.com/oguzsenna/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm Oğuz</h1>
-<h3 align="center">Bogazici University Physics Alumni. Coding is my passion.</h3>
+<h1 align="center"> Coding is my passion.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzsenna&label=Profile%20views&color=0e75b6&style=flat" alt="oguzsenna" /> </p>
 
