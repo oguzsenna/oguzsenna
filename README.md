@@ -22,7 +22,7 @@
 <a href="https://twitter.com/sennaoguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sennaoguz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oguzsenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzsenna" height="30" width="40" /></a>
 <a href="https://kaggle.com/ouzsenna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ouzsenna" height="30" width="40" /></a>
-<a href="https://medium.com/@oguz5595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oguz5595" height="30" width="40" /></a>
+<a href="https://medium.com/@oguz5595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oguzsenna" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/oguzcan_senna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oguzcan_senna" height="30" width="40" /></a>
 </p>
 
